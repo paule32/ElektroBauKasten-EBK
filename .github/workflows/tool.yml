@@ -26,7 +26,6 @@ jobs:
       with:
         msystem: mingw64
         update: true
-        location: T:\
         install: >-
           mingw-w64-x86_64-openssl
           git
